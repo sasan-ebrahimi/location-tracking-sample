@@ -3,7 +3,7 @@
 This is a simple Android project to be delivered as an Interview task.
 
 ## Demo
-<img src="https://github.com/sasan-ebrahimi/location-tracking-sample/blob/master/preview/preview.gif" width="300">
+<img src="https://github.com/sasan-ebrahimi/location-tracking-sample/blob/main/preview/preview.gif" width="300">
 
 ## Features
 
