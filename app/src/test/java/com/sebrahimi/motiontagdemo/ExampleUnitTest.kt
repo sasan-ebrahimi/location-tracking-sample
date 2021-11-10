@@ -1,4 +1,4 @@
-package com.sebrahimi.motiontaginterviewtask
+package com.sebrahimi.motiontagdemo
 
 import org.junit.Test
 

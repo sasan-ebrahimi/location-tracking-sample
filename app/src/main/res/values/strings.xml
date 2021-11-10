@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Motiontag Interview Task</string>
+    <string name="app_name">Location Tracker</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="lbl_approve_permissions">Approve Permissions</string>
+    <string name="lbl_next_activity">Go To Map</string>
+    <string name="msg_permission_required">To use this app you need to approve PRECISE LOCATION permission. Please click on the button to do so.</string>
+
 </resources>

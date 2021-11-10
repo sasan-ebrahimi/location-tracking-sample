@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_xlarge">20dp</dimen>
+    <dimen name="space_large">14dp</dimen>
+    <dimen name="space_normal">10dp</dimen>
+    <dimen name="space_small">6dp</dimen>
+    <dimen name="space_xsmall">2dp</dimen>
+
+
+</resources>
